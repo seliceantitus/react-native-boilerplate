@@ -1,0 +1,15 @@
+{
+	"shared": {
+		"login": "Login",
+		"logout": "Logout"
+	},
+	"loginScreen": {
+		"username": "Username",
+		"password": "Password"
+	},
+	"homeScreen": {
+		"title": "React Native boilerplate",
+		"subTitle": "Kickstart your React Native project with everything ready to go",
+		"libraries": "Installed libraries"
+	}
+}
